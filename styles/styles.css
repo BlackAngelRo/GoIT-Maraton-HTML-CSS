@@ -1,9 +1,9 @@
 body {
-
+    font-family: "Montserrat";
 }
 
 .about-me-section {
-    background-color: orange;
+    
 }
 
 .sidebar-section {
@@ -13,4 +13,10 @@ body {
 .app-wrapper {
     display: flex;
     flex-direction: row-reverse;
+    width: 1200px;
+    margin: 40px auto;
+}
+
+.right-side-container {
+    margin-left: 88px;
 }
