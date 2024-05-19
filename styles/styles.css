@@ -1,0 +1,15 @@
+body {
+
+}
+
+.about-me-section {
+    background-color: orange;
+}
+
+.sidebar-section {
+    background-color: #DFEEFF;
+}
+
+.app-wrapper {
+    display: flex;
+}
