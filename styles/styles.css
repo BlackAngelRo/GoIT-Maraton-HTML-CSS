@@ -1,13 +1,6 @@
+/* Our App */
 body {
     font-family: "Montserrat";
-}
-
-.about-me-section {
-    background-color: red;
-}
-
-.sidebar-section {
-    background-color: #DFEEFF;
 }
 
 .app-wrapper {
@@ -17,7 +10,19 @@ body {
     margin: 40px auto;
 }
 
+/* Sidebar Styles */
+.sidebar-section {
+    background-color: #DFEEFF;
+}
+
+.sidebar-image {
+    margin-top: 40px;
+}
+
+.contacts-container {
+    padding-left: 40px;
+}
+/* Main content styles */
 .right-side-container {
     padding-left: 88px;
-    color: blue;
 }
