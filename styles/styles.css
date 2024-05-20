@@ -22,6 +22,45 @@ body {
 .contacts-container {
     padding-left: 40px;
 }
+
+.tech-skills {
+    padding-left: 40px;
+}
+
+.soft-skills {
+    padding-left: 40px;
+}
+
+.contacts-header {
+    font-weight: 700;
+    font-size: 22px;
+    color: #161d2a;
+    line-height: normal;
+}
+
+.contacts-item {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 171%;
+    color: #161d2a;
+}
+
+.contacts-phone {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+    color: #4489ff;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.contacts-email {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+    color: #4489ff;
+    margin-left: 10px;
+}
 /* Main content styles */
 .right-side-container {
     padding-left: 88px;
