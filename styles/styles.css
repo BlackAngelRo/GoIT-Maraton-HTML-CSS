@@ -25,10 +25,12 @@ body {
 
 .tech-skills {
     padding-left: 40px;
+    margin-top: 40px;
 }
 
 .soft-skills {
     padding-left: 40px;
+    margin-top: 40px;
 }
 
 .contacts-header {
@@ -60,6 +62,25 @@ body {
     line-height: 171%;
     color: #4489ff;
     margin-left: 10px;
+}
+
+.contacts-element {
+    margin-top: -12px;
+}
+
+.tech-skills-header {
+    font-weight: 700;
+    font-size: 22px;
+    color: #161d2a;
+}
+
+.skills-list {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+    color: #161d2a;
+    margin-top: -10px;
+    margin-left: -10px;
 }
 /* Main content styles */
 .right-side-container {
