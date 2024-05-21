@@ -91,3 +91,54 @@ body {
     padding-right: 40px;
     padding-bottom: 180px;
 }
+
+.about-me-profession {
+    font-weight: 700;
+    font-size: 14px;
+    color: #000;
+}
+
+.about-me-name {
+    font-weight: 700;
+    font-size: 45px;
+    color: #000;
+    margin-top: -10px;
+}
+
+.about-me-description {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+    color: #595959;
+    margin-top: -20px;
+}
+
+.projects-section {
+    margin-top: 40px;
+}
+
+.projects-header {
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.projects-list {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 171%;
+    margin-left: -20px;
+    margin-top: -15px;
+}
+
+.projects-link {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    color: #595959;
+}
+
+.project-info {
+    font-weight: 400;
+}
