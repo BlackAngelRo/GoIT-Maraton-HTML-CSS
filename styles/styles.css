@@ -9,6 +9,7 @@ body {
     flex-direction: row-reverse;
     width: 1200px;
     margin: 40px auto;
+    background-color: #FFF;
 }
 
 /* Sidebar Styles */
@@ -86,4 +87,7 @@ body {
 /* Main content styles */
 .right-side-container {
     padding-left: 88px;
+    padding-top: 80px;
+    padding-right: 40px;
+    padding-bottom: 180px;
 }
