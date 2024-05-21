@@ -181,3 +181,32 @@ body {
 .company-container {
     margin-top: -10px;
 }
+
+.education-title {
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.education-place {
+    font-weight: 700;
+    font-size: 16px;
+    color: #6096ff;
+}
+
+.education-position {
+    font-weight: 700;
+    font-size: 14px;
+    margin-top: -10px;
+}
+
+.education-time {
+    font-weight: 400;
+    font-size: 12px;
+    color: #a8a8a8;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+.education-block {
+    margin-top: -10px;
+}
